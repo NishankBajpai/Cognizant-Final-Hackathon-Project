@@ -1,0 +1,11 @@
+{
+  "cruise": {
+    "url": "https://cruises.booking.com"
+  },
+  "holiday": {
+    "url": "https://www.booking.com",
+    "location": "Nairobi",
+    "days": 5,
+    "homes": 3
+  }
+}

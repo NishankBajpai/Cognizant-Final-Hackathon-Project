@@ -1,0 +1,22 @@
+2025-07-17 12:03:43,174 INFO stepdefinitions.StepDefinition [main] - browser initiated
+2025-07-17 12:03:50,429 INFO stepdefinitions.StepDefinition [main] - navigated to cruises.booking.com
+2025-07-17 12:03:53,843 INFO stepdefinitions.StepDefinition [main] - the first cruise line is selected
+2025-07-17 12:03:57,498 INFO stepdefinitions.StepDefinition [main] - the best rated cruiseship is selected
+2025-07-17 12:04:00,093 INFO stepdefinitions.StepDefinition [main] - the infomation of the cruise ship is obtained
+2025-07-17 12:04:06,825 INFO stepdefinitions.StepDefinition [main] - browser initiated
+2025-07-17 12:04:54,023 INFO stepdefinitions.StepDefinition [main] - navigated to www.booking.com
+2025-07-17 12:05:06,593 INFO stepdefinitions.StepDefinition [main] - selected the hotels details in location Nairobi for 5 days 
+2025-07-17 12:05:16,620 INFO stepdefinitions.StepDefinition [main] - the filters are enabled
+2025-07-17 12:05:18,354 INFO stepdefinitions.StepDefinition [main] - the list of homes are obtained
+2025-07-17 12:05:19,372 INFO stepdefinitions.StepDefinition [main] - Excel file created with both Holiday Homes and Cruise Line sheets
+2025-07-17 12:50:58,214 INFO stepdefinitions.StepDefinition [main] - browser initiated
+2025-07-17 12:51:05,607 INFO stepdefinitions.StepDefinition [main] - navigated to cruises.booking.com
+2025-07-17 12:51:09,188 INFO stepdefinitions.StepDefinition [main] - the first cruise line is selected
+2025-07-17 12:51:09,355 INFO Methods.CruiseNavigation [main] - The best rated ship is rated 4.4
+2025-07-17 12:51:09,413 INFO Methods.CruiseNavigation [main] - The best rated ship is rated 4.5
+2025-07-17 12:51:09,759 INFO Methods.CruiseNavigation [main] - The best rated ship is rated 4.7
+2025-07-17 12:51:13,166 INFO stepdefinitions.StepDefinition [main] - the best rated cruiseship is selected
+2025-07-17 12:51:16,196 INFO stepdefinitions.StepDefinition [main] - the infomation of the cruise ship is obtained
+2025-07-17 12:51:23,492 INFO stepdefinitions.StepDefinition [main] - browser initiated
+2025-07-17 12:51:53,618 INFO stepdefinitions.StepDefinition [main] - navigated to www.booking.com
+2025-07-17 12:51:56,673 WARN Methods.HomeNavigation [main] - The pop-up may not be closed, rerun to fix the failed case
